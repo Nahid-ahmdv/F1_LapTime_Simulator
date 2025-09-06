@@ -54,8 +54,8 @@ create_animation = True
 save_animation = True
 ```
 
-(Tip: to list valid event names/rounds: `fastf1.get_event_schedule(year)`.)
-(If you need more detailed explanations for any part of the code, see the `LapSim_explained` file.)
+> Tip: to list valid event names/rounds: `fastf1.get_event_schedule(year)`.
+> If you need more detailed explanations for any part of the code, see the `LapSim_explained` file.
 ---
 
 ## What the code does (very short)
@@ -96,9 +96,17 @@ LAP TIMES:
 <p align="center">
   <img src="animation.gif" alt="Lap-time sim" width="600">
 </p>
----
+
+<figure>
+  <img src="docs/lap-accuracy-table.png"
+       alt="Table comparing real vs simulated fastest lap times for 2025 F1 sessions with per-event time delta and accuracy; mean accuracy ≈ 97.5%">
+  <figcaption>
+    Accuracy of simulated fastest laps across selected 2025 F1 sessions
+    (Δ = Sim − Real; Accuracy = 1 − |Δ|/Real).
+  </figcaption>
+</figure>
 
 **Thanks for reading and I hope you find this helpful!**
  
----
+
 
