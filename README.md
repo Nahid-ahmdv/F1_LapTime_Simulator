@@ -1,7 +1,7 @@
 # F1 Lap Time Simulator (FastF1 + Physics)
 
 > **Note**  
-> *This project is a derivative work of my friend [Raul Garcia](https://github.com/pmraulgarcia)’s great project. Please read his repo first:*  
+> *This project is based on my friend [Raul Garcia](https://github.com/pmraulgarcia)’s great project. Please read his repo first:*  
 > 👉 [The original repo](https://github.com/pmraulgarcia/Formula1_Race_Simulator)
 
 This project is a lightweight F1 lap-time simulator that blends real telemetry (via [FastF1](https://docs.fastf1.dev/)) with a simple but realistic physics model.
