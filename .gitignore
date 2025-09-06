@@ -6,3 +6,7 @@ Collector.py
 compare_result.py
 
 HI.ipynb
+
+f1_cache/
+
+__pycache__/
