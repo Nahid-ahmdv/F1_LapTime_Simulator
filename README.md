@@ -98,7 +98,7 @@ LAP TIMES:
 </p>
 
 <figure>
-  <img src="docs/lap-accuracy-table.png"
+  <img src="lap-accuracy-table.png"
        alt="Table comparing real vs simulated fastest lap times for 2025 F1 sessions with per-event time delta and accuracy; mean accuracy ≈ 97.5%">
   <figcaption>
     Accuracy of simulated fastest laps across selected 2025 F1 sessions
